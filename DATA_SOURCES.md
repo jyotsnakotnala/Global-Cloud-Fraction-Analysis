@@ -10,8 +10,6 @@ Dataset: ISCCP H-Series Global Monthly (HGM) Cloud Product (Version 01r00)
 
 Data Provider: NOAA National Centers for Environmental Information (NCEI)
 
-Official Project Page:
-https://www.ncei.noaa.gov/products/international-satellite-cloud-climatology-project
 
 Direct Data Repository:
 https://www.ncei.noaa.gov/data/international-satellite-cloud-climate-project-isccp-h-series-data/access/isccp/hgm/
