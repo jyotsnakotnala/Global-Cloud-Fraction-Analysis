@@ -2,27 +2,26 @@
 
 ## Project Overview
 
-This project evaluates global cloud fraction using satellite observations and CMIP6 climate models. The workflow includes data processing, harmonization, regional analysis, statistical evaluation, and visualization using Python.
-
+This project develops a harmonized global cloud fraction dataset by combining ISCCP HGM and CERES satellite observations and evaluates the performance of three CMIP6 climate models (UKESM1-0-LL, IPSL-CM6A-LR, and MRI-ESM2-0) using regional analysis, cloud fraction anomalies, seasonal climatology, bias analysis, and statistical evaluation.
 ## Datasets
 
-### Satellite Observations
+Satellite Observations
 - ISCCP HGM (1983–2017)
 - CERES SYN1deg Edition 4.2 (2001–2025)
 
-### Climate Models
+ Climate Models
 - UKESM1-0-LL
 - IPSL-CM6A-LR
 - MRI-ESM2-0
 
-## Study Regions
+ Study Regions
 
 - Global
 - Tropics
 - Mid-Latitudes
 - Polar
 
-## Workflow
+Workflow
 
 - Data Collection
 - Data Processing
@@ -34,7 +33,7 @@ This project evaluates global cloud fraction using satellite observations and CM
 - Statistical Evaluation
 - Data Visualization
 
-## Tools & Libraries
+Tools & Libraries
 
 - Python
 - Jupyter Notebook
@@ -45,11 +44,11 @@ This project evaluates global cloud fraction using satellite observations and CM
 - SciPy
 - NetCDF4
 
-## Statistical Metrics
+ Statistical Metrics
 
 - Correlation (R)
 - RMSE
 - Bias
 - Standard Deviation
 
-## Repository Structure
+
