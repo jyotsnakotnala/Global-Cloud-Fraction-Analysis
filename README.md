@@ -51,4 +51,22 @@ Tools & Libraries
 - Bias
 - Standard Deviation
 
+## Project Highlights
 
+✔ Harmonized ISCCP and CERES satellite observations
+
+✔ Evaluated three CMIP6 climate models
+
+✔ Regional analysis:
+- Global
+- Tropics
+- Mid-Latitudes
+- Polar
+
+✔ Cloud Fraction Anomalies
+
+✔ Seasonal Climatology
+
+✔ Bias Analysis
+
+✔ Statistical Evaluation
