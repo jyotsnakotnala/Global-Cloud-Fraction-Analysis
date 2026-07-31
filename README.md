@@ -1,6 +1,8 @@
 # Global Cloud Fraction Analysis
 
+![Project Banner](banner.png)
 
+# Global Cloud Fraction Analysis
 # Global Cloud Fraction Analysis
 ## Project Overview
 
