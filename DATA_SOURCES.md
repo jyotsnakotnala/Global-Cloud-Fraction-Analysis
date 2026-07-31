@@ -27,27 +27,35 @@ The ISCCP HGM dataset provides long-term global monthly cloud observations
 and serves as the primary observational dataset for historical cloud fraction analysis.
 
 
-2. Clouds and the Earth’s Radiant Energy System (CERES)
+2. CERES (Clouds and the Earth's Radiant Energy System)
 
-Dataset: CERES SYN1deg-Month Terra-Aqua-NOAA20 Edition 4.2
+**Dataset Name**
+CERES SYN1deg-Month Terra–Aqua–NOAA20 Edition 4.2
 
-Data Provider: NASA Langley Research Center
+**File Used**
+CERES_SYN1deg-Month_Terra-Aqua-NOAA20_Ed4.2_Subset_200101-202512.nc
 
-Official Data Portal:
-https://ceres.larc.nasa.gov/data/
+**Data Provider**
+NASA Langley Research Center (LaRC)
+Atmospheric Science Data Center (ASDC)
 
-Variable Used
+**Data Period**
+January 2001 – December 2025
 
-* cldarea_total_mon (Monthly Mean Total Cloud Area Fraction)
+**Spatial Resolution**
+1° × 1° Global Grid
 
-Period Used in this Study
+**Variable Used**
+cldarea_total_mon (Monthly Mean Total Cloud Area Fraction)
 
-* January 2001 – December 2025
+**Official Data Portal**
+https://ceres.larc.nasa.gov/Data/
 
-Purpose
-CERES observations were used to extend the satellite cloud fraction record beyond 2001. 
-The overlapping period (2001–2017) with ISCCP was used to harmonize the observational datasets before model evaluation.
+**Dataset Page**
+https://asdc.larc.nasa.gov/project/CERES/CER_SYN1deg-Month_Terra-Aqua-NOAA20_Edition4B
 
+**Purpose in this Project**
+The CERES monthly cloud fraction dataset was used to extend the satellite observation record beyond the ISCCP period and was harmonized with ISCCP observations for evaluating CMIP6 model cloud fraction.
 
 3. Coupled Model Intercomparison Project Phase 6 (CMIP6)
 
