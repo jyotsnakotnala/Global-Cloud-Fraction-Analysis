@@ -76,7 +76,6 @@ clt (Total Cloud Fraction)
 1983–2025 (Historical + SSP245)
 
 **Data Access Source**
-PATMOS-x Data Portal
 
 **Website**
 https://esgf-node.ornl.gov/search
