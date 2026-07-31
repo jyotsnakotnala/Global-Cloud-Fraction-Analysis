@@ -11,8 +11,7 @@
 
 ![Bias Analysis](3.png)
 
-# Global Cloud Fraction Analysis
-# Global Cloud Fraction Analysis
+
 ## Project Overview
 
 This project develops a harmonized global cloud fraction dataset by combining ISCCP HGM and CERES satellite observations and evaluates the performance of three CMIP6 climate models (UKESM1-0-LL, IPSL-CM6A-LR, and MRI-ESM2-0) using regional analysis, cloud fraction anomalies, seasonal climatology, bias analysis, and statistical evaluation.
