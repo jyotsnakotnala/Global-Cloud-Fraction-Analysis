@@ -1,6 +1,15 @@
 # Global Cloud Fraction Analysis
 
-![Project Banner](banner.png)
+![Project Banner](1.png)
+## Sample Results
+
+### Global Cloud Fraction
+
+![Global Cloud Fraction](2.png)
+
+### Bias Analysis
+
+![Bias Analysis](3.png)
 
 # Global Cloud Fraction Analysis
 # Global Cloud Fraction Analysis
