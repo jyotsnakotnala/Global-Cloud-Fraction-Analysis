@@ -51,8 +51,6 @@ cldarea_total_mon (Monthly Mean Total Cloud Area Fraction)
 **Official Data Portal**
 https://ceres.larc.nasa.gov/Data/
 
-**Dataset Page**
-https://asdc.larc.nasa.gov/project/CERES/CER_SYN1deg-Month_Terra-Aqua-NOAA20_Edition4B
 
 **Purpose in this Project**
 The CERES monthly cloud fraction dataset was used to extend the satellite observation record beyond the ISCCP period and was harmonized with ISCCP observations for evaluating CMIP6 model cloud fraction.
