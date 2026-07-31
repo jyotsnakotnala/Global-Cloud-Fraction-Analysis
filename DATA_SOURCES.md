@@ -57,35 +57,34 @@ https://asdc.larc.nasa.gov/project/CERES/CER_SYN1deg-Month_Terra-Aqua-NOAA20_Edi
 **Purpose in this Project**
 The CERES monthly cloud fraction dataset was used to extend the satellite observation record beyond the ISCCP period and was harmonized with ISCCP observations for evaluating CMIP6 model cloud fraction.
 
-3. Coupled Model Intercomparison Project Phase 6 (CMIP6)
+3. ## Coupled Model Intercomparison Project Phase 6 (CMIP6)
 
-Data Provider: Earth System Grid Federation (ESGF)
+**Dataset Name**
+Coupled Model Intercomparison Project Phase 6 (CMIP6)
 
-Official Data Portal:
-https://esgf-node.llnl.gov/search/cmip6/
+**Models Used**
+- UKESM1-0-LL
+- IPSL-CM6A-LR
+- MRI-ESM2-0
 
-Climate Models Used
+**Experiments**
+- Historical
+- SSP245
 
-* UKESM1-0-LL
-* IPSL-CM6A-LR
-* MRI-ESM2-0
+**Variable Used**
+clt (Total Cloud Fraction)
 
-Variable Used
+**Period Used in This Study**
+1983–2025 (Historical + SSP245)
 
-* clt (Total Cloud Area Fraction)
+**Data Access Source**
+PATMOS-x Data Portal
 
-Experiments
+**Website**
+https://patmos-x.cimss.wisc.edu/
 
-* Historical
-* SSP245
-
-Period Used in this Study
-
-* January 1983 – December 2025
-
-Purpose
-CMIP6 simulations were evaluated against the harmonized satellite observations to
-assess the ability of the selected climate models to reproduce observed cloud fraction variability at global and regional scales.
+**Purpose in this Project**
+CMIP6 cloud fraction (clt) data were compared with harmonized ISCCP and CERES satellite observations to evaluate model performance using correlation, RMSE, bias, standard deviation, seasonal climatology, and anomaly analysis.
 
 
 Data Harmonization
