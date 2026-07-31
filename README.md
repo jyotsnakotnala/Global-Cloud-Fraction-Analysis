@@ -3,11 +3,11 @@
 ![Project Banner](1.png)
 ## Sample Results
 
-### Global Cloud Fraction
+
 
 ![Global Cloud Fraction](2.png)
 
-### Bias Analysis
+
 
 ![Bias Analysis](3.png)
 
