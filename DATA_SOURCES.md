@@ -81,7 +81,7 @@ clt (Total Cloud Fraction)
 PATMOS-x Data Portal
 
 **Website**
-https://patmos-x.cimss.wisc.edu/
+https://www.ncei.noaa.gov/products/climate-data-records/avhrr-hirs-cloud-properties-patmos
 
 **Purpose in this Project**
 CMIP6 cloud fraction (clt) data were compared with harmonized ISCCP and CERES satellite observations to evaluate model performance using correlation, RMSE, bias, standard deviation, seasonal climatology, and anomaly analysis.
